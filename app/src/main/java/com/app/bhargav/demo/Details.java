@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 /**
- * Created by bhargav on 8/3/17.
+ * Created by bhargav on 8/3/17. updated in new branch
  */
 public class Details extends AppCompatActivity {
 
